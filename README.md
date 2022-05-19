@@ -1,2 +1,2 @@
-# tigriskzs.github.lo
+# tigriskzs.github.io
 Demo page
